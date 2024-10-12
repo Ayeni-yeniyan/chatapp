@@ -63,7 +63,7 @@ class DefaultFirebaseOptions {
     messagingSenderId: '701128808505',
     projectId: 'chatter-ef53b',
     storageBucket: 'chatter-ef53b.appspot.com',
-    iosBundleId: 'com.example.chatapp',
+    iosBundleId: 'com.example.myapp',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
@@ -72,7 +72,7 @@ class DefaultFirebaseOptions {
     messagingSenderId: '701128808505',
     projectId: 'chatter-ef53b',
     storageBucket: 'chatter-ef53b.appspot.com',
-    iosBundleId: 'com.example.chatapp',
+    iosBundleId: 'com.example.myapp',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
